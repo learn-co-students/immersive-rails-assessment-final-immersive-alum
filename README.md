@@ -20,9 +20,9 @@ The app you built on Monday is now functioning great. Stephen just has a few ext
 
 ## Instructions / Deliverables
 
-1. Initially, Stephen rated the interview with Michael J. Fox a 3, but in retrospect, it actually wasn't that bad! As a user, I should be able to edit an appearance so that I can change a rating. Build out the edit functionality for an appearance, keeping with RESTful conventions.
-2. We want to add some more validations to our models - an appearance should only be valid if it has a rating on it that's between 1 and 5.
-3. When we create a new appearance, we should also keep track of the person who booked that appearance. This means that an appearance should also belong to a user. Update your schema, models, and forms to reflect this.   
+1. Build out a guests show page that lists all of the episodes that guest appeared on. Each episode should link to the correct episode show page. 
+2. For each of those episodes, there should an edit to edit the details of that appearence for that episode
+3. On the top of the guest index page should be a link to a new route to list all of the guests, ranked by the amount of appearences they have.
 
 ### Hints / Tips
 
