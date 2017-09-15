@@ -16,7 +16,7 @@ Before you begin, fork and clone this repo, run `rake db:migrate` and `rake db:s
 
 ## The Domain
 
-The app you built on Monday is now functioning great. Stephen just has a few extra requests.
+The you've built out an app for displaying guests and episodes on The Late Show with Stephen Colbert. Stephen just has a few extra requests.
 
 ## Instructions / Deliverables
 
